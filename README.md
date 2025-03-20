@@ -1,9 +1,7 @@
 ## Hi there, I'm Juan Ignacio Morales
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Electronic+Engineer,+PhD+in+Microelectronics&center=true&width=600&height=50&color=00A86B&size=25&duration=4000&pause=1000&repeat=false">
-  </a>
+  <img src="https://img.shields.io/badge/Electronic%20Engineer%20%7C%20PhD%20in%20Microelectronics-00A86B?style=for-the-badge&logo=electron&logoColor=white">
 </p>
 
 ---
