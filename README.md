@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, I'm Juan Ignacio Morales
+
+<img src="https://readme-typing-svg.herokuapp.com?lines=Hola+Mundo!;Bienvenido+a+mi+perfil;&center=true&width=600&height=50&color=00FF00&speed=100">
+
+Researcher with solid training in engineering and microelectronics, encompassing both digital and analog design.
+Expertise in high temporal resolution systems based on pulse-width modulation techniques.
 
 <!--
 **N4ch0M/N4ch0M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
