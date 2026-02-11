@@ -1,6 +1,4 @@
-
-<h2 align="center">Hi , I'm Juan Ignacio Morales <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
-<p align="center">
+<h2 align="center">Hi, I'm Juan Ignacio Morales <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Electronic%20Engineer%20%7C%20PhD%20in%20Microelectronics-00A86B?style=for-the-badge&logo=electron&logoColor=white">
@@ -8,8 +6,8 @@
 
 ---
 
-**Researcher with solid training in engineering and microelectronics, encompassing both digital and analog design.**  
-**Expertise in high temporal resolution systems based on pulse-width modulation techniques.**
+**Researcher with strong training in engineering and microelectronics, covering both digital and analog design.**  
+**Specialized in high-temporal-resolution systems using pulse-width modulation techniques.**
 
 ---
 
