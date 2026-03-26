@@ -1,7 +1,7 @@
 # Juan Ignacio Morales
 
-Researcher at [IIIE (CONICET-UNS)](https://iiie.uns.edu.ar), Argentina.  
-Currently on a postdoctoral stay at [IMSE-CNM](https://www.imse-cnm.csic.es) (CSIC-Universidad de Sevilla), Spain.
+Researcher at [IIIE (CONICET-UNS)](https://iiie.conicet.gov.ar/), Argentina.  
+Currently on a postdoctoral stay at [IMSE-CNM](http://www.imse-cnm.csic.es/) (CSIC-Universidad de Sevilla), Spain.
 
 Working on **all-digital transmitters**, **high-resolution PWM architectures**, and **RF modulation** — mostly in CMOS and FPGA.
 
