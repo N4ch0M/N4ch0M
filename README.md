@@ -1,25 +1,33 @@
-<h2 align="center">Hi, I'm Juan Ignacio Morales <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h2>
+# Juan Ignacio Morales
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Electronic%20Engineer%20%7C%20PhD%20in%20Microelectronics-00A86B?style=for-the-badge&logo=electron&logoColor=white">
-</p>
+Researcher at [IIIE (CONICET-UNS)](https://iiie.uns.edu.ar), Argentina.  
+Currently on a postdoctoral stay at [IMSE-CNM](https://www.imse-cnm.csic.es) (CSIC-Universidad de Sevilla), Spain.
 
----
-
-**Researcher with strong training in engineering and microelectronics, covering both digital and analog design.**  
-**Specialized in high-temporal-resolution systems using pulse-width modulation techniques.**
+Working on **all-digital transmitters**, **high-resolution PWM architectures**, and **RF modulation** — mostly in CMOS and FPGA.
 
 ---
 
-<div align="center">
-  <h3><b> Can Connect With Me On</b></h3>
-</div>
+## Research Interests
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jimorales" target="_blank">
-    <img align="center" alt="Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="mailto:morales.juan.ignacio@gmail.com">
-    <img align="center" alt="Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a>
-</p>
+- High-resolution pulse-width modulation
+- All-digital RF transmitters
+- Low-power integrated circuit design
+- FPGA-based signal processing
+
+---
+
+## Selected Publications
+
+- **[2024]** *An RF Modulation Based on k-th Order PWM Harmonic* — IEEE TCAS-I  
+- **[2022]** *A Distortion-Free All-Digital Transmitter Based on Noise-Shaped PWM* — IEEE TCAS-I  
+- **[2021]** *Low Power 18-Bit PWM With 41 ps Resolution in 130-nm CMOS* — IEEE TCAS-II  
+
+→ Full list on [Google Scholar](https://scholar.google.es/citations?user=z3D0sVUAAAAJ)
+
+---
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jimorales)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:morales.juan.ignacio@gmail.com)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0642-4053)
